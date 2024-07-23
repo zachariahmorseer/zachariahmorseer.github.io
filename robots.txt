@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zachariahmorseer.github.io/sitemap.xml
